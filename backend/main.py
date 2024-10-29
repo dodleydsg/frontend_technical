@@ -60,7 +60,6 @@ def not_dag(edges):
 
     def dfs(node):
         if node in rec_stack:
-           
             return True
         if node in visited:
            

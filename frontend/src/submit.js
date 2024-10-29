@@ -30,7 +30,7 @@ export const SubmitButton = () => {
           } catch (error) {}
         }}
         type="submit"
-        className="py-3 px-6 border-none bg-blue-600 rounded hover:bg-blue-800 transition-colors ease-out"
+        className="py-3 px-6 text-white border-none bg-blue-600 rounded hover:bg-blue-800 transition-colors ease-out"
       >
         Submit
       </button>
